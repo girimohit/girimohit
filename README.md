@@ -55,7 +55,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=girimohit&limit=3&theme=radical&combine_all_yearly_contributions=true" width="55%">
 </div>
 
----
 
 <!--
 ## 🏆 GitHub Trophies
