@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" width="100%" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p width="100%" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=girimohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="55%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girimohit&theme=radical&hide_border=false" width="55%">
 </p>
