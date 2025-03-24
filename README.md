@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohit!;Full+Stack+Developer;AI+&+DSA+Enthusiast" width="70%" max-width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohit!;Full+Stack+Developer;AI+&+DSA+Enthusiast" width="85%" max-width="100%">
 </p>
 
 ---
@@ -16,12 +16,12 @@
 
 ## 🌍 Connect with me
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohitgiri"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"></a>
-  <a href="https://twitter.com/themohitgiri"><img src="https://skillicons.dev/icons?i=twitter" width="40px"></a>
-  <a href="https://instagram.com/themohitgiri"><img src="https://skillicons.dev/icons?i=instagram" width="40px"></a>
-  <a href="https://www.youtube.com/c/mohit_giri"><img src="https://skillicons.dev/icons?i=youtube" width="40px"></a>
-  <a href="https://mohitgiri.dev"><img src="https://skillicons.dev/icons?i=portfolio" width="40px"></a>
+<p>
+  <a href="https://linkedin.com/in/mohitgiri"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://twitter.com/themohitgiri"><img src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://instagram.com/themohitgiri"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://www.youtube.com/c/mohit_giri"><img src="https://skillicons.dev/icons?i=youtube"></a>
+  <a href="https://mohitgiri.dev"><img src="https://skillicons.dev/icons?i=portfolio"></a>
 </p>
 
 ---
@@ -29,18 +29,18 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart" width="90%" max-width="100%">
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart" >
 </p>
 
 ### 🌐 Web & App Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,expressjs,react,nodejs,flutter" width="90%" max-width="100%">
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,expressjs,react,nodejs,flutter" >
 </p>
 
 ### ⚙️ DevOps & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,mysql,mongodb,linux,tailwindcss,figma,postman" width="90%" max-width="100%">
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,mysql,mongodb,linux,tailwindcss,figma,postman" >
 </p>
 
 ---
@@ -48,10 +48,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girimohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="90%" max-width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=girimohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girimohit&theme=radical&hide_border=false" width="90%" max-width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girimohit&theme=radical&hide_border=false" >
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=girimohit&limit=3&theme=radical&combine_all_yearly_contributions=true" width="90%" max-width="100%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=girimohit&limit=3&theme=radical&combine_all_yearly_contributions=true" >
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏗️ Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girimohit&theme=radical&hide_border=false" width="90%" max-width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girimohit&theme=radical&hide_border=false" >
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/girimohit/girimohit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%" max-width="100%">
+  <img src="https://raw.githubusercontent.com/girimohit/girimohit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
