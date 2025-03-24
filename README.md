@@ -16,11 +16,11 @@
 
 ## 🌍 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mohitgiri)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/themohitgiri)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/themohitgiri)
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/c/mohit_giri)
-[![Portfolio](https://skillicons.dev/icons?i=portfolio)](https://www.youtube.com/c/mohit_giri)
+<a href="https://linkedin.com/in/mohitgiri"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://twitter.com/themohitgiri"><img src="https://skillicons.dev/icons?i=twitter"></a>
+<a href="https://instagram.com/themohitgiri"><img src="https://skillicons.dev/icons?i=instagram"></a>
+<a href="https://www.youtube.com/c/mohit_giri"><img src="https://skillicons.dev/icons?i=youtube"></a>
+<a href="https://www.youtube.com/c/mohit_giri"><img src="https://skillicons.dev/icons?i=portfolio"></a>
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" width="100%" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<p align="center" width="100%" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=girimohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="55%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girimohit&theme=radical&hide_border=false" width="55%">
 </p>
@@ -51,7 +51,7 @@
 
 ## 🔝 Top Contributed Repos
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div>
   <img src="https://github-contributor-stats.vercel.app/api?username=girimohit&limit=3&theme=radical&combine_all_yearly_contributions=true" width="55%">
 </div>
 
@@ -68,18 +68,16 @@
 
 ## 🏗️ Contribution Activity
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girimohit&theme=radical" height="180%" width="59%">
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girimohit&theme=radical&hide_border=false" height="180%" width="59%">
 </div>
 
-![GitHub Snake](https://github.com/girimohit/girimohit/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-mohitgiri%40email.com-red?style=flat-square&logo=gmail)](mailto:mohitgiri@email.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat-square&logo=react)](https://mohitgiri.dev)
+<p align="center" width="100%" style="display: flex; flex-direction: column; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/girimohit/girimohit/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+</p>
 
 ---
 
