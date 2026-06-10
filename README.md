@@ -28,21 +28,34 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages  
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart" >
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" >
 </p>
 
-### 🌐 Web & App Development  
+### Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,expressjs,react,nodejs,flutter" >
+  <img src="https://skillicons.dev/icons?i=django,nodejs,expressjs,react,nextjs,tailwindcss" >
 </p>
 
-### ⚙️ DevOps & Tools  
+### Databases & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,mysql,mongodb,linux,tailwindcss,figma,postman" >
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" >
 </p>
 
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" >
+</p>
+
+### APIs & Authentication
+- REST APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Zod Validation
+
+### Problem Solving
+- Data Structures & Algorithms
 ---
 
 ## 📊 GitHub Stats
