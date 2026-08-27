@@ -1,5 +1,13 @@
-# <div align="center">Hi 👋, I'm Mohit Giri</div>
+<div align="center">
+  <img
+    src="hero.png"
+    alt="Mohit Giri - Developer Profile"
+    width="95%"
+    style="border-radius: 12px;"
+  />
+</div>
 
+<!-- # <div align="center">Hi 👋, I'm Mohit Giri</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer;AI+%26+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
@@ -104,8 +112,8 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=girimohit&theme=react-dark&hide_border=true" />
-</p> -->
+</p>
 
 <p align="center">
   <i>Building, learning, and contributing one project at a time.</i>
-</p>
+</p> -->
